@@ -1,8 +1,9 @@
-# Hello!
+# I don't like this
 
 ### Computer Science Student @ Cebu Institute of Technology - University (CIT-U)
 
-I am lazy
+
+Jammes Baxter
 
 
 
@@ -19,7 +20,5 @@ I am lazy
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 📊 GitHub Stats
 
-[![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=topknott23&show_icons=true&theme=tokyonight)](https://github.com/topknott23)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=topknott23&layout=compact&theme=tokyonight)](https://github.com/topknott23)
+
