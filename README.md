@@ -1,10 +1,12 @@
 # Hello!
 
-### 👨‍💻 Computer Science Student @ Cebu Institute of Technology - University (CIT-U)
+### Computer Science Student @ Cebu Institute of Technology - University (CIT-U)
 
 I am lazy
 
 
+
+## Tech Stack & Tools
 
 **Languages:** ![C](https://img.shields.io/badge/C-CodeChum_Certified-blue?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
